@@ -21,32 +21,35 @@ else :
 
 
 
-#------------------------------------------------------------------------------
-
-
-
-
-
-
-#playing with computer
-
 
 #------------------------------------------------------------------------------
+#you can use this code
+
+""" if Player_1 == "Rock" and Player_2 == "Scissors" :
+        print("Player_1 wins ...")
+        Player1_wins +=1
+
+    elif Player_1 == "Rock" and Player_2 == "Paper" :
+        print("Player_2 wins ...")
+        Player2_wins+=1 """
+
+#insted of  :
 """
 if Palyer_1 == "rock" :
     if Player == "Scissors"
         print("Player_1 wins ...")
     elif :
         print("Player_2 wins ...")
-elif Player_1 == "Palper"
+elif Player_1 == "Paper" ...
 
 """
-#------------------------------------------------------------------------------
 
+#------------------------------------------------------------------------------
+#Or use this 
 """ if Player_1 == "rock" :
       print("Player_1 wins ...")  if Player_2 == "Scissors"  else  print("Player_2 wins ...")   """  
 
-      # We dont advice that for you !
+      #But i dont advice this  code for you !
 
 #------------------------------------------------------------------------------
 
@@ -65,7 +68,7 @@ while Player1_wins <= wining_score and Player2_wins <= wining_score :
 
     print(f" computer Make your move : {computerMove} ")
     
-
+#play whit computer
     Player_2 = computerMove
 
     
