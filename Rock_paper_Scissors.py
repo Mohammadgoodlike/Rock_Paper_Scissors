@@ -1,8 +1,9 @@
+#By M-A-J
 import random
 
-print("Rock...".lower())
-print("Paper...".lower()) 
-print("Scissors...".lower())
+print("Rock...")
+print("Paper...") 
+print("Scissors...")
 
 print("------------------")
 
